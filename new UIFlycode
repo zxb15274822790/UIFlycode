@@ -1,0 +1,2 @@
+//表格删除焦点项的数据
+Page.getArrayCtrl('表格').deleteInScope('checked');
